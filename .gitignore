@@ -1,3 +1,6 @@
 history.txt
 # since only .dat in data could probably remove: data/
 *.dat
+results/plots
+*.data
+!final.data
